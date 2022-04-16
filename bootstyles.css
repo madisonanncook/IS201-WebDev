@@ -22,3 +22,19 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+body {
+  background-color: lavender;
+}
+
+footer {
+  color:grey;
+}
+
+.lighttext {
+  font-weight: lighter;
+}
+
+.boldtext {
+  font-weight: bold;
+}
